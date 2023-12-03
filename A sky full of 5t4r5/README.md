@@ -16,7 +16,6 @@ At first I can't quite see the flag, so I ramp up the brightness of my screen an
 <p align="center">
   <img width="80%" height="300" src="solution/skyfullofstars.PNG">
 </p>
-<br>
 
 ### Flag
 The flag for this challenge is ```ptm{0n3_h0ur_h3r3_1s_7_d4y5_0n_34rth```.
