@@ -12,7 +12,7 @@ To solve this challenge, I ran ```exiftool``` command to search for hidden infor
 </p>
 <br>
 
-At first I can't quite see the flag, so I ramp up the brightness of my screen and finally I can read the flag.
+At first I can't quite see the flag, so I ramp up the brightness of my screen and finally I can read the flag. The flag is right above the question mark.
 <p align="center">
   <img width="80%" height="300" src="solution/skyfullofstars.PNG">
 </p>
