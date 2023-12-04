@@ -11,3 +11,12 @@ Then, I tried to use <a href="https://www.dcode.fr/spectral-analysis">spectogram
 <p align="center">
   <img width="80%" height="350" src="solution/noise.PNG">
 </p>
+
+Extract all of the letters and decrypt it using <a href="https://gchq.github.io/CyberChef/">Cyberchef</a>.
+<p align="center">
+  <img width="80%" height="350" src="solution/noise1.PNG">
+</p>
+
+### Flag
+
+The flag for this challenge is ```ptm{s0m3th1ng_1n_y0ur_e4r5_w45_s0_4nn0y1ng}```
